@@ -1,8 +1,6 @@
 ---
-#
 # Installing Java 8
 #
-
 # Add the Java repo
 
 - name: Add the Java PPA repo
