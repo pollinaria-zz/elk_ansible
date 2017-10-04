@@ -1,8 +1,6 @@
 ---
-#
 # Installing Elasticsearch
 #
-
 # Add Elasticsearch apt key
 
 - name: Add Elasticsearch apt key
