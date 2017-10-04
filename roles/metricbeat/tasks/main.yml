@@ -1,8 +1,6 @@
 ---
-#
 # Installing Metricbeat
 #
-
 # Install Metricbeat 
 
 - name: Install Metricbeat with apt
