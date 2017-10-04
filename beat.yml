@@ -1,0 +1,8 @@
+--
+# Playbook to install Beats
+#
+- hosts: elk_monitoring
+  remote_user: root
+  roles:
+  - { rolr: filebeat }
+  - { role: metricbeat }
