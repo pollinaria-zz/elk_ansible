@@ -1,5 +1,4 @@
 --
-#
 # Playbook to install the ELK stack + Beats
 #
 - hosts: elk_servers
